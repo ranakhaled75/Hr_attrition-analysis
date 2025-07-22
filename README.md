@@ -1,4 +1,5 @@
 #Hr_Attrition analysis
+
 This project provides a visual dashboard for analyzing employee attrition (i.e., employee turnover) within an organization. The dashboard is built to offer insights into the factors contributing to attrition, categorized by gender, department, education, job role, marital status, and age group.
 
 📊 Dashboard Overview
